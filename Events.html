@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://kit.fontawesome.com/0a2264748d.js" crossorigin="anonymous"></script>
+  <title>AllEvents</title>
+  <link rel="icon" href="./assets/logo.png" type="image/x-icon">
+
+  <link rel="stylesheet" href="./styles/header.css">
+  <link rel="stylesheet" href="./styles/banner.css">
+  <link rel="stylesheet" href="./styles/cards.css">
+  
+</head>
+<body>
+
+  
+  <nav>
+    <div class="wrapper">
+      <a href="" class="logo">AllEvents </a>
+
+      <div class="nav-items">
+        <a href="Events.html">
+          <i class="fa-solid fa-house"></i>
+          Home
+        </a>
+
+        <a href="#featured-events">
+          <i class="fa-solid fa-calendar"></i>
+          Events
+        </a>
+        
+        <a href="#Contact">
+          <i class="fa-solid fa-envelope"></i>
+          Contact
+        </a>
+
+        <div class="search-icon-container">
+          <i class="fa-solid fa-magnifying-glass search-button"></i>
+        </div>
+
+        <div class="search-input-container">
+          <input type="text" placeholder="Search">
+        </div>
+      </div>
+
+      <div class="hamburger">
+          <i class="fa-solid fa-bars"></i>
+      </div>
+
+    </div>
+  </nav>
+
+  <main>
+    <section>
+      <div class="hero-section">
+        <img src="assets/banner.jpg">
+        <div class="hero-content">
+          <h1>Discover Events Near You</h1>
+          <p>Find local events, festivals, and activities happening soon!</p>
+          <a href="#featured-events" class="btn">Explore Events</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="featured-events" id="featured-events">
+      <h1> Featured Events </h1>
+      <div class="events-container" id="events-container">
+        
+      </div>
+
+    </section>
+
+    <script src="./scripts/events.js"></script>
+    <script src="./scripts/toggle.js" ></script>
+    <script src="./scripts/search-bar.js"></script>
+  </main>
+</body>
+</html>

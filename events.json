@@ -1,0 +1,50 @@
+[
+  {
+    "name":"Cars & Bikes Show",
+    "Date":"14 June",
+    "Time":"5:00 am",
+    "Location":"F-9 Park, Islamabad",
+    "Description":"Experience thrilling live stunts, drifting shows, and meet auto experts in an electrifying atmosphere",
+    "image":"./assets/events/expo.jpg"
+  },
+  {
+    "name":"Galiyat Mountain Race 2025",
+    "Date":"20 July",
+    "Time":"12:00 am",
+    "Location":"Galiyat Mountain Trail, Pakistan",
+    "Description":"Margalla Trail Runners is going to organize the 4th edition of the Galiyat Mountain Trail Race.",
+    "image":"./assets/events/galiyat.png"
+  },
+  {
+    "name":"Pakistan Cultural Food",
+    "Date":"15 June",
+    "Time":"10:00 am",
+    "Location":"F-9 Park, Islamabad",
+    "Description":"Indulge in the rich and diverse flavors of Pakistan’s cultural cuisine",
+    "image":"./assets/events/expo.jpg"
+  },
+  {
+    "name":"Kids Bootcamp",
+    "Date":"3 July",
+    "Time":"9:00 am",
+    "Location":"Lalkurti, Rawalpindi",
+    "Description":"Empowering Young Minds: Sunday School Kids Bootcamp",
+    "image":"./assets/events/bootcamp.png"
+  },
+  {
+    "name":"Marco Polo Adventure Route Tour",
+    "Date":"10 June",
+    "Time":"7:00 am",
+    "Location":"Islamabad",
+    "Description":"The Marco Polo Adventure Route is a thrilling and scenic journey through northern Pakistan",
+    "image":"./assets/events/marco-polo.png"
+  },
+  {
+    "name":"Fest 2025 Pakistan",
+    "Date":"14 June",
+    "Time":"2:00 pm",
+    "Location":"Islamabad",
+    "Description":"Welcome to Fest 2025 In Islamabad Pakistan to Dubai. for Partcipation Register yourself on www.capitalclubworld.com",
+    "image":"./assets/events/Fest.png"
+  }
+]
